@@ -6,5 +6,5 @@ Commands to USE:
 3. Create Project (ng new pocMean --no-strict)
 4. Running server (ng serve)
 
-#Project Code in this Repo
+# Project Code in this Repo
 https://github.com/hemanthpeela09/pocMean
